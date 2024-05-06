@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "MyDXApp",
+      "default": true
+    }
+  ],
+  "name": "MyDXProjectSetup",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0"
+}
